@@ -1,0 +1,8 @@
+{
+  "name": "FYP Management System",
+  "description": "FYP Management System created by Abdul Rehman (7923) & Sohaib Maqsood (7941).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
